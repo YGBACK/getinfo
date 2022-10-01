@@ -1,0 +1,2 @@
+# getinfo
+get More information
